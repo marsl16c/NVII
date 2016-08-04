@@ -1,0 +1,160 @@
+body {
+  background-color: #fff;
+  font-size: 1.25em;
+  line-height: 2em;
+  font-family: 'Lato', sans-serif;
+  color: #737373;
+  max-width: 99%;
+
+}
+
+.main-wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+
+  background-color: #000;
+
+}
+
+.box { margin-top: 50px; margin-bottom: 100px; padding: 0 35px;}
+
+.plz { margin: 50px; }
+
+
+p { font-size: 1.35em;}
+
+.uk-navbar { min-height: 50px; padding-left: 25px; }
+.uk-navbar-toggle { font-size: 2.5em;}
+
+
+
+.logo  {
+  text-align: center;
+  margin: auto;
+}
+.logo img {
+
+  background-color: #000;
+  padding-top: 20px;
+  margin-top: -20px;
+}
+
+
+
+
+.parthead {
+
+  font-weight: 100;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background-color: #f7f7f7;
+  padding: 30px;
+
+}
+
+
+.videoblock, .video { margin-top: 25px; }
+
+.videobox { background-color: #222; padding: 100px 0; }
+
+.fullimage {
+
+  margin-top: 100px;
+
+  background-image: url(http://www.denondj.com/images/mcx8000/carousel/large/NAMM_MS_Hero_A.jpg);
+  background-size: cover;
+  height: 500px;
+
+}
+
+.videohead {
+  text-align: center;
+  color: #666;
+  font-weight: 100;
+  font-size: 3em;
+}
+
+.videohead p {
+
+  border-bottom: 1px solid #666;
+
+}
+
+.features {
+
+  font-size: 1.35em;
+  margin-bottom: 100px;
+
+}
+
+.features ul {
+
+  text-indent: 0;
+  margin-left: -30px;
+
+}
+
+.header {
+
+  font-size: 2em;
+  font-weight: 100;
+  text-transform: uppercase;
+
+}
+
+.features li {
+
+  list-style: none;
+  line-height: 2.5em;
+  margin: 0;
+  font-weight: 100;
+  letter-spacing: .1em;
+
+}
+
+
+.footer a { margin: 10px; }
+
+.textblock {
+
+  font-family: 'Lato', sans-serif;
+  color: #737373;
+  text-align: justify;
+  font-weight: 300;
+
+}
+
+.textblock h3 {
+
+  text-align: left;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-family: 'Lato', sans-serif;
+  color: #555;
+  font-size: 1.45em;
+  font-weight: 300;
+
+}
+
+.headline h3 {
+  color: #fff;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+
+}
+
+.dealer {
+
+  text-align: center;
+  margin-top: 25px;
+
+  }
+
+.uk-nav-offcanvas a {
+
+  font-weight: 300;
+  letter-spacing: .1em;
+
+}
